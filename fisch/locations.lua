@@ -39,7 +39,7 @@ return {
     ["Pedestal 2"] = {-1088, -332, -3283},
     ["Pedestal 3"] = {-1046, -337, -3277},
     ["Luminescent Cavern | Colossal Ethereal Dragon"] = {-1114, -348, -4174},
-    ["Crimson Cavern | Colossal Ancient Dragon"] = {-1128, -375, -4906}
+    ["Crimson Cavern | Colossal Ancient Dragon"] = {-1128, -375, -4906},
     ["Dunehaven"] = {-23709, 2700, -6006},
     ["Claypans1"] = {-24778, 2609, -5705},
     ["Claypans2"] = {-24595, 2645, -6534},
