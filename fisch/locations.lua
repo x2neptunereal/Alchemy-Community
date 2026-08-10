@@ -153,4 +153,6 @@ return {
     ["Zeus's Thunder of Chaos"] = {-8756, -3495, 689},
     ["Hades' Underworld of Indefinite"] = {-9090, -4255, 364},
     ["Olympian Fissure"] = {-8861, -4260, -419},
+    ["The Deep Entrance"] = {-215, 137, -4668},
+    ["The Deep"] = {354, -2238, -11889},
 }
