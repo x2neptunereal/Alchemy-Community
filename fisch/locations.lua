@@ -155,6 +155,5 @@ return {
     ["Olympian Fissure"] = {-8861, -4260, -419},
     ["The Deep Entrance"] = {-215, 137, -4668},
     ["The Deep"] = {354, -2238, -11889},
-}
     ["Outer Deep"] = {-425, -2386, -12685},
     ["Lower Deep"] = {1616, -2831, -11763}
