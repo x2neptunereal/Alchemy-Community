@@ -157,4 +157,10 @@ return {
     ["The Deep"] = {354, -2238, -11889},
     ["Outer Deep"] = {-425, -2386, -12685},
     ["Lower Deep"] = {1616, -2831, -11763},
+    ["Boreal Hollow"] = {848, -2603, 1604},
+    ["Astral Cavern - Abyssal Zenith"] = {-13793, -11569, 123},
+    ["Astral Cavern - Boreal Pines"] = {21881, -149, 4224},
+    ["Astral Cavern - Everturn Forest"] = {2524, -126, -2499},
+    ["Astral Cavern - Snowcap Island"] = {2641, -410, 2485},
+    ["Astral Cavern - Cryogenic Canal"] = {-1860, -263, 4007},
 }
