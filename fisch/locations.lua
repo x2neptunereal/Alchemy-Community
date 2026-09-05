@@ -163,4 +163,6 @@ return {
     ["Astral Cavern - Everturn Forest"] = {2524, -126, -2499},
     ["Astral Cavern - Snowcap Island"] = {2641, -410, 2485},
     ["Astral Cavern - Cryogenic Canal"] = {-1860, -263, 4007},
+    ["Skycrest"] = {-25849, 3061, -4754},
+    ["Keeper Of The Sky NPC"] = {-25849, 3061, -4754},
 }
