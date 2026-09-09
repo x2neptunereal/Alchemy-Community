@@ -12,8 +12,8 @@ return {
     ["Kraken Lair"] = {-4362, -1007, 2065},
     ["Poseidon Trial"] = {-3830, -570, 1098},
     ["Poseidon Temple"] = {-4018, -569, 913},
-    ["Sunken Depths"] = {-4951, -680, 1841},
-    ["Zeus's Sanctuary"] = {-4238, -636, 2715},
+    ["Sunken Depths"] = {-4951, -595, 1838},
+    ["Zeus's Sanctuary"] = {-4278, -627, 2656},
     ["Boreal Pines"] = {21400, 135, 4123},
     ["Crystal Fissure"] = {21718, 132, 3960},
     ["Glacial Squid Pool"] = {21409, 133, 3882},
@@ -171,4 +171,5 @@ return {
     ["Hayate Idol (NPC)"] = {-25984, 3083, -5025},
     ["Shunsoku Idol (NPC)"] = {-25883, 3061, -4654},
     ["Nagomi Idol (NPC)"] = {-26069, 3083, -4811},
+    ["Ryusei (NPC) Wish Of The Sky"] = {-26332, 3150, -4458},
 }
