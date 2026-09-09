@@ -165,4 +165,10 @@ return {
     ["Astral Cavern - Cryogenic Canal"] = {-1860, -263, 4007},
     ["Skycrest"] = {-25849, 3061, -4754},
     ["Keeper Of The Sky NPC"] = {-25849, 3061, -4754},
+    ["Amanojaku Idol (NPC)"] = {-26631, 3176, -4735},
+    ["Fudo Idol (NPC)"] = {-26262, 3175, -5104},
+    ["Goriki Idol (NPC)"] = {-26276, 3125, -4676},
+    ["Hayate Idol (NPC)"] = {-25984, 3083, -5025},
+    ["Shunsoku Idol (NPC)"] = {-25883, 3061, -4654},
+    ["Nagomi Idol (NPC)"] = {-26069, 3083, -4811},
 }
